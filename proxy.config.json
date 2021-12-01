@@ -1,0 +1,11 @@
+{
+  "/api": {
+    "target": "https://6kmfp.ciroue.com",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "/api": ""
+    }
+  }
+}
